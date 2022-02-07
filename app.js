@@ -1,5 +1,7 @@
 "use strict"
 
+// Already returns token but just for PR requirement!
+
 let express = require('express')
 let app = express()
 
