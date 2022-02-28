@@ -1,5 +1,7 @@
 "use strict"
 
+// Login endpoint returns access token
+
 const jwtdecode = require('jwt-decode')
 
 let express = require('express')
